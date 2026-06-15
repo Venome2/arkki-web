@@ -12,7 +12,7 @@ export function Footer() {
           <div className="flex items-center gap-3">
             <Logo />
             <div>
-              <p className="text-xl font-bold font-headline">Arrkiii</p>
+              <p className="text-xl font-bold font-headline">Neon Void</p>
               <p className="text-sm text-muted-foreground mt-1">The only Discord bot you'll ever need.</p>
             </div>
           </div>
