@@ -48,7 +48,7 @@ export function Header() {
               <div className="grid gap-4 py-6">
                 <div className="flex items-center gap-3 mb-4">
                   <Logo />
-                  <p className="text-xl font-bold font-headline">Arrkiii</p>
+                  <p className="text-xl font-bold font-headline">Neon Void</p>
                 </div>
                 <nav className="grid gap-4">
                   {headerLinks.map(link => (
