@@ -25,7 +25,7 @@ export function Footer() {
           </nav>
         </div>
         <div className="mt-8 pt-8 border-t border-border/40 text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Arrkiii. All Rights Reserved.
+          © {new Date().getFullYear()} Neon Void. All Rights Reserved.
         </div>
       </div>
     </footer>
